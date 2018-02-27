@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">996291851277-tt4q93j3ki9bhgvajsbouh1ba6ngnp6s.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://konnect-32e7e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">996291851277</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRqx3JhgDLHuy969frHSGRrnp_N5IjHOY</string>
+    <string name="google_app_id" translatable="false">1:996291851277:android:1e74dacbea817519</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRqx3JhgDLHuy969frHSGRrnp_N5IjHOY</string>
+    <string name="google_storage_bucket" translatable="false">konnect-32e7e.appspot.com</string>
+    <string name="project_id" translatable="false">konnect-32e7e</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996291851277",
+    "firebase_url": "https://konnect-32e7e.firebaseio.com",
+    "project_id": "konnect-32e7e",
+    "storage_bucket": "konnect-32e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996291851277:android:1e74dacbea817519",
+        "android_client_info": {
+          "package_name": "com.example.shashankmohabia.konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996291851277-tt4q93j3ki9bhgvajsbouh1ba6ngnp6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRqx3JhgDLHuy969frHSGRrnp_N5IjHOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996291851277-tt4q93j3ki9bhgvajsbouh1ba6ngnp6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
